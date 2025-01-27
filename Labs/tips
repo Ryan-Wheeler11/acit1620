@@ -1,0 +1,4 @@
+#ul>li*6 ---> Creates a list of 6
+#ul>li.list-item[data-item="$"]{listed items here}
+# HTML file setup put ! and hit tab
+# Ctrl space to reenable to popup
