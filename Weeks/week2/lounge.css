@@ -1,0 +1,35 @@
+p {
+    color: maroon;
+  }
+  h1, h2 {
+    font-family: sans-serif;
+    color: grey;
+  }
+  h1 {
+    border-bottom: 1px solid black;
+  }
+
+  body {
+    font-family: sans-serif;
+  }
+
+p.green {
+    Color: green;
+}
+
+p.red {
+    color: rgb(0, 255, 76);
+}
+
+
+p.blue {
+    color: blue;
+}
+
+p.lightblue {
+    color: lightskyblue;
+}
+ 
+h2.customh2 {
+  color: aqua;
+}
