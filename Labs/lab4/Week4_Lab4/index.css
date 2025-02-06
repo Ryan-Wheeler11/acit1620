@@ -74,7 +74,7 @@ div.navbar {
 ## Set a border radius (Ex: 5px)
 */
 span.nav-item {
-    color: white;
+    color: black;
     margin: 0 15px;
     cursor: pointer;
     font-size: 1.1rem;
@@ -136,7 +136,7 @@ span.nav-item {
 .image-card img {
     max-width: 120%;
     border-radius: 8px;
-    width: 380px;
+    width: 500px;
 }
 
 
